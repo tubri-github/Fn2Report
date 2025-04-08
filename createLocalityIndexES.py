@@ -27,7 +27,15 @@ class GeoElasticSearchIndexer:
         """连接到Elasticsearch"""
         try:
             # 包含scheme参数的连接方法
-            self.es = Elasticsearch([{'host': self.es_host, 'port': self.es_port, 'scheme': 'http'}])
+            self.es = Elasticsearch(
+                hosts=[{
+                    'host': self.es_host,
+                    'port': self.es_port,
+                    'scheme': 'http'
+                }],
+                http_auth=('user', 'password'),
+                verify_certs=False  # 如果你使用 HTTPS 并且没有配置 CA 证书，设为 False；否则建议设为 True
+            )
             if self.es.ping():
                 print("成功连接到Elasticsearch")
                 return True
