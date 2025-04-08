@@ -1,0 +1,17 @@
+E
+East
+Eastern
+N
+N.
+NE
+NW
+North
+Northern
+S
+SE
+SW
+South
+Southern
+W
+West
+Western

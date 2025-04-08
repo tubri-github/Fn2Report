@@ -1,0 +1,96 @@
+US	398
+SW	299
+NW	281
+SE	270
+NE	247
+LA	179
+SS	110
+AL	101
+FM	72
+GA	67
+NN	62
+MS	55
+CR	47
+ES	47
+TX	40
+AR	40
+WN	39
+FL	37
+EN	28
+Buffalo City	27
+BM	27
+SC	25
+SR	20
+WS	18
+FS	18
+TN	17
+NC	17
+James Parish	16
+EM	16
+CA	10
+LS	10
+RM	10
+Clarke County	10
+KY	9
+DN	8
+OC	7
+Panama City	7
+II	7
+HW	6
+OP	6
+LO	6
+NJ	6
+Iron City	6
+Dallas County	5
+Island State	5
+GS	5
+OK	5
+MO	4
+AC	4
+Dog Town	4
+Yazoo City	4
+RR	4
+Wilcox County	4
+Lott Town	3
+NA	3
+Morehead City	3
+ME	3
+Palmer State	3
+Beach State	3
+Lake Village	3
+Monroe County	3
+Charles County	3
+Durango City	3
+Lakes State	2
+Bibb County	2
+MF	2
+RD	2
+IS	2
+Jefferson Parish	2
+River County	2
+KM	2
+LC	2
+VA	2
+Lake State	2
+Garden State	2
+Parthenon Township	2
+WW	2
+Jefferson County	2
+NI	2
+Lake City	2
+FA	2
+SL	2
+Feliciana County	2
+MC	2
+Gold City	2
+Lamar County	2
+Baker State	2
+Dowell County	2
+Tuscaloosa County	2
+River State	2
+NP	2
+Rice City	2
+Escambia County	2
+IN	2
+Sulphur City	2
+BA	2

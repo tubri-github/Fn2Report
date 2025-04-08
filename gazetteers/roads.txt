@@ -1,0 +1,102 @@
+I-10	80
+I-59	44
+Hwy 10	16
+I-12	16
+I-20	14
+FM 1013	11
+Road 1	10
+I-55	10
+I-45	7
+I-35	6
+Hwy 438	6
+Hwy 21	6
+Road 390	6
+Road 224	6
+US 90	6
+FM 92	5
+FM 162	5
+US 11	5
+FM 1746	5
+FM 149	5
+FM 1314	5
+FM 1375	5
+Hwy 41	4
+FM 418	4
+Hwy 43	4
+FM 1688	4
+Hwy 90	4
+FM 2992	4
+I-65	4
+Road 19	4
+Route 165	4
+I-40	3
+I-70	3
+Hwy 40	3
+Road 262	3
+FM 1116	3
+FM 1988	3
+Route 220	3
+Route 627	3
+Hwy 69	3
+I-85	3
+Road 10	3
+Hwy 65	3
+Road 255	3
+Road 266	3
+Hwy 27	3
+Road 27	3
+Road 2	3
+CR 33	3
+I-30	3
+Hwy 52	3
+Hwy 58	3
+Hwy 11	3
+Road 603	2
+Hwy 34	2
+CR 7	2
+Hwy 14	2
+Hwy 77	2
+US 82	2
+Hwy 98	2
+Hwy 49	2
+Interstate 40	2
+Hwy 84	2
+Hwy 437	2
+Hwy 38	2
+Road 177	2
+Hwy 190	2
+Route 1	2
+Highway 84	2
+Road 210	2
+Road 131	2
+US 19	2
+Road 1013	2
+Road 3	2
+FM 105	2
+Road 23	2
+Road 182	2
+Road 6	2
+Road 244	2
+Road 4	2
+I-5	2
+Road 59	2
+Hwy 35	2
+FM 1276	2
+Interstate 59	2
+Hwy 60	2
+Hwy 445	2
+Road 232	2
+Hwy 61	2
+Hwy 79	2
+Hwy 70	2
+CR 45	2
+CR 30	2
+Hwy 22	2
+Hwy 17	2
+CR 15	2
+Hwy 331	2
+CR 70	2
+CR 9	2
+US 80	2
+Hwy 7	2
+CR 637	2

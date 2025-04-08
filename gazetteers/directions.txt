@@ -1,0 +1,17 @@
+S	828
+E	790
+N	741
+W	699
+West	341
+SW	297
+NW	281
+SE	268
+NE	246
+East	186
+South	155
+North	149
+Northern	22
+Eastern	9
+Western	8
+Southern	7
+N.	6

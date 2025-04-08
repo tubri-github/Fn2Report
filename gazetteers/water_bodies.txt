@@ -1,0 +1,1200 @@
+Pearl River	1155
+Alabama River	455
+Mississippi River	291
+Red River	233
+White River	213
+Sabine River	204
+West Pearl River	179
+Buffalo River	140
+Neches River	139
+Black Creek	110
+Apalachicola River	96
+Elevenmile Creek	80
+Coburn Creek	76
+Village Creek	75
+Colorado River	72
+Anacoco Bayou	68
+East Pearl River	67
+Arkansas River	66
+Little River	65
+Mill Creek	63
+Turkey Creek	63
+Wolf River	61
+Big Creek	60
+Clear Creek	60
+Leaf River	60
+Choccolocco Creek	59
+Big Black River	59
+Cahaba River	54
+Bear Creek	54
+Bogue Chitto River	52
+Strong River	52
+Pond Creek	50
+Tombigbee River	49
+Holmes Bayou	48
+Upper Perdido Bay	47
+Choctawhatchee River	45
+Silver Creek	45
+Calcasieu River	44
+Homochitto River	42
+Ouachita River	41
+Beaver Creek	40
+Bogalusa Creeks	40
+Pine Island Bayou	38
+Yellow River	36
+Pushepatapa Creek	35
+Cypress Creek	35
+Santa Clara River	34
+Tangipahoa River	34
+South Fork	34
+Chappepeela Creek	34
+Hurricane Creek	33
+Pascagoula River	33
+Talisheek Creek	32
+Coopers Creek	32
+Pecos River	31
+Biloxi Bay	31
+Lower Perdido Bay	31
+Chipola River	31
+Cane Creek	31
+Herrion Bayou	30
+Thompson Creek	30
+Perdido Bay	29
+Little Bayou	29
+Spring Creek	29
+Coosa River	28
+Black River	28
+Red Creek	28
+Atwood Water	27
+Fair River	27
+Virgin River	27
+Bogue Falaya River	27
+Timbalier Bay	25
+Amite River	25
+Shoal Creek	25
+Shoal River	24
+Hickory Creek	24
+Wanilla Water	23
+Dry Creek	23
+Independence Creek	23
+Spider Creek	22
+Halawakee Creek	22
+Buffalo Bayou	22
+Limestone Creek	22
+Clinch River	21
+Trinity River	21
+Saline River	21
+Chickasawhay River	21
+Ten Mile Creek	21
+White Oak Creek	21
+Current River	21
+Choctawhatchee Bay	20
+Atchafalaya River	20
+Ocean Springs	20
+Little Colorado River	20
+Paria River	20
+War Eagle Creek	20
+Brushy Creek	20
+West Fork	19
+Richland Creek	19
+Perdido River	19
+Moody Creek	18
+Copper Creek	18
+Brazos River	18
+Wolf Creek	17
+North Fork	17
+Beech Creek	17
+Illinois River	17
+Monkey Bayou	17
+Chattooga River	17
+Chattahoochee River	16
+Rattlesnake Bayou	16
+Indian River	16
+Deep Creek	16
+Chilatchee Creek	16
+Gila River	16
+Cheaha Creek	16
+Flint Creek	16
+Salt Creek	15
+Tallapoosa River	15
+Bogalusa Creek	15
+Deer Creek	15
+Sandy Creek	15
+Big Cow Creek	15
+Strawberry River	15
+Little Buffalo River	15
+Warnock Springs	15
+Horsepasture River	15
+Gasparilla Sound	15
+Blackwater River	15
+Choccoloco Creek	15
+Beaverdam Creek	14
+Mississippi Sound	14
+Escatawpa River	14
+Little Lake	14
+Jourdan River	14
+Natalbany River	14
+Flat Creek	14
+Caddo River	14
+Buck Creek	14
+Duck River	14
+San Jacinto River	14
+West Fork San Jacinto River	14
+Holly Creek	14
+Cedar Creek	13
+Big Bigby Creek	13
+Juniper Creek	13
+Black Warrior River	13
+Dead Lake	13
+Roanoke River	13
+Chandeleur Sound	13
+Sloan Creek	13
+Toxaway River	13
+Fish River	13
+Suwannee River	13
+Little Tennessee River	13
+Green River	13
+Mulberry Creek	12
+Grand Bayou	12
+Tchefuncte River	12
+Big Sandy Creek	12
+Snake Creek	12
+Tussahaw Creek	12
+Oconee River	12
+Caney Creek	12
+Biloxi River	12
+Borden Creek	12
+North Oconee River	12
+San Francisco River	12
+Devils River	11
+Okatoma Creek	11
+Indian Creek	11
+Barataria Bay	11
+Hobolochitto Creek	11
+Old River	11
+Catahoula Creek	11
+Florida Bay	11
+Taylor Creek	11
+Cossatot River	11
+Yocona River	11
+Little Buffalo Bayou	11
+Channahatchee Creek	11
+Carter's Creek	11
+Lots Creek	11
+Oyster Bayou	10
+Brush Creek	10
+Caminada Bay	10
+Conasauga River	10
+Hatchie River	10
+Emuckfaw Creek	10
+Webb Creek	10
+Kings River	10
+Sour Lake	10
+Sweetwater Creek	10
+Weeks Bayou	10
+Wilson Creek	10
+Big Sand Creek	10
+Lazer Creek	10
+Pine Barren Creek	10
+Nutrioso Creek	10
+Wacoochee Creek	9
+Horse Creek	9
+Rock Creek	9
+Yazoo River	9
+Missouri River	9
+West Bay	9
+Long Creek	9
+Blue River	9
+Middle Fork Little Red River	9
+Pigeon River	9
+New River	9
+Johns River	9
+Nueces River	9
+Crooked Creek	9
+Little Cypress Creek	9
+Chunky River	9
+Guadalupe River	9
+North River	9
+Pigg River	9
+Bluff Creek	9
+Prairie Creek	9
+Hencoop Creek	9
+Mill Shoal Creek	9
+Scull Shoal Creek	9
+Capsey Creek	9
+Red Oak Creek	9
+Wesobulga Creek	9
+Guantanamo Bay	8
+Poplar Creek	8
+Tar River	8
+Blind River	8
+Santa Rosa Sound	8
+Rocky River	8
+Mobile Bay	8
+Black Bayou	8
+Boggy Creek	8
+Uchee Creek	8
+Rocky Creek	8
+East Fork	8
+Illinois Bayou	8
+Sinking Creek	8
+Murder Creek	8
+Pease River	8
+Tickfaw River	8
+Yellow Creek	8
+Fivemile Creek	8
+Mulberry River	8
+Petit Jean River	8
+Six Mile Creek	8
+Wildcat Creek	8
+North Bay	8
+Escambia River	8
+Hiwassee River	8
+Broad River	8
+Tampa Bay	8
+Panther Creek	8
+Fox Creek	8
+Armstrong Lake	8
+Three Rivers	8
+Niangua River	8
+Llano River	8
+Conecuh River	8
+Kelso Bayou	8
+Ochlockonee River	8
+Pumpkin Creek	8
+Byrd Bayou	8
+Sand Creek	8
+Short Creek	8
+Yalobusha River	8
+Little Souwilpa Creek	8
+Blount Springs	8
+Sand Hill Creek	8
+Cow Creek	7
+Spring River	7
+Andrews Bay	7
+Locust Fork	7
+James Parish Canal	7
+Econfina Creek	7
+Intracoastal Canal	7
+Little Black Creek	7
+Yadkin River	7
+Sixmile Creek	7
+Gasconade River	7
+Mountain Oak Creek	7
+Horsepen Creek	7
+Big Cornie Creek	7
+Lindsey Creek	7
+Shinumo Creek	7
+Wisconsin River	7
+Piney Creek	7
+Little Red River	7
+Fourche La Fave River	7
+Locust Bayou	7
+Eureka Springs	7
+Huron River	7
+Eaves Old River	7
+Morrisette Creek	7
+San Felipe Springs	7
+Wichita River	7
+Little Sand Creek	7
+Royal Arch Creek	7
+Leon Creek	7
+Mud Creek	7
+Kimmey Lake	7
+Crystal Creek	7
+South Canadian River	7
+Knob Creek	7
+French Broad River	7
+Valley Creek	7
+Big Reedy Creek	7
+Big Biloxi River	7
+Twin Bayou	7
+Bliss Creek	7
+Little Bear Creek	7
+Aker Creek	7
+Little Hurricane Creek	7
+Grand Lake	6
+Mogotsu Creek	6
+Petit Jean Creek	6
+Peters Creek	6
+Ajkwa River	6
+Intracoastal Water	6
+Salt Fork	6
+Marys River	6
+Lee's Creek	6
+Middle Fork	6
+Franklin Creek	6
+Spavinaw Creek	6
+Tennessee River	6
+Davis Bayou	6
+Catawba River	6
+South Fork Green River	6
+Menard Creek	6
+North Fork White River	6
+Williams Creek	6
+Chapepeela Creek	6
+Havasu Creek	6
+Santa Fe River	6
+West Fork White River	6
+Robinson Creek	6
+Dead Lakes	6
+Little Missouri River	6
+Apalachicola Bay	6
+Bearcamp Creek	6
+Noxubee River	6
+Canadian River	6
+Pine Log Creek	6
+Little Uchee Creek	6
+Coosawattee River	6
+Foster Creek	6
+Bluewater Creek	6
+East Fork Big Creek	6
+Candler Creek	6
+Jackson Creek	6
+Puskus Creek	6
+Sugar Creek	6
+Moon Lake	6
+Fortyeight Creek	6
+Blackburn Fork	6
+Toccoa River	6
+Gurley Creek	6
+Shawnette Creek	6
+Copiah Creek	6
+Tunica Bayou	6
+Cartecay River	6
+Long Lake	5
+Little Cove Creek	5
+Little Schultz Creek	5
+Mills River	5
+San Carlos Bay	5
+Aransas Bay	5
+Skuna River	5
+Savannah River	5
+Middle Pearl River	5
+Big Sioux River	5
+Cave Springs	5
+Cottonwood Creek	5
+West Double Bayou	5
+Bell Creek	5
+Hall's Creek	5
+Chesapeake Bay	5
+Alapaha River	5
+Lucie River	5
+Bowie River	5
+James River	5
+Smackover Creek	5
+Francis River	5
+Eleven Point River	5
+Bearwallow Creek	5
+Uphapee Creek	5
+Cullasaja River	5
+Long King Creek	5
+Taylor Lake	5
+Cummins Creek	5
+Buckhorn Creek	5
+Duck Lake	5
+Wakulla River	5
+Mitchell River	5
+Little Creek	5
+Coon Creek	5
+Econfina River	5
+Withlacoochee River	5
+North Fork Coles Creek	5
+Blue Springs	5
+Blue Creek	5
+Tulane University Rivers	5
+Doaks Creek	5
+Perry Creek	5
+Altamaha River	5
+Fort River	5
+Big Piney Creek	5
+Elk River	5
+Saucier Creek	5
+Verdigris River	5
+Catatonk Creek	5
+Barren River	5
+Halls Creek	5
+Big Piney River	5
+Ellejoy Creek	5
+Pierce Creek	5
+Hinds Creek	5
+Kentucky River	5
+Valley River	5
+Towaliga River	5
+Cumberland River	5
+Lawrence Creek	5
+Ellards Creek	5
+Little Holmes Bayou	5
+Duck Creek	5
+Chocolocco Creek	5
+Little Pine Island Bayou	5
+Tuxachanie Creek	5
+Fishing Creek	4
+Eno River	4
+Goose Creek	4
+Silver Lake	4
+Jackson River	4
+Bitter Lakes	4
+Lost Creek	4
+Alamito Creek	4
+Cox Creek	4
+South Fork Mills River	4
+Ostin Creek	4
+Tapeats Creek	4
+Abita Springs	4
+Jones Creek	4
+Vickery Creek	4
+Hudson River	4
+Oakmulgee Creek	4
+Doctor Lake	4
+Dan River	4
+Live Oak Creek	4
+Atchafalaya Basin	4
+Rotten Bayou	4
+Indian Bayou	4
+Dufrene's Ponds	4
+LA Southwest Canal	4
+Bogue Sound	4
+Brothers River	4
+Middle Fork Drakes Creek	4
+Cooper Creek	4
+Roubidoux Creek	4
+Logan Martin Reservoir	4
+Mountain Creek	4
+Trace Fork	4
+Beaver Dam Creek	4
+Salt Bayou	4
+Blackwater Bay	4
+Bogueloosa Creek	4
+Comite River	4
+Tinkisso River	4
+San Saba River	4
+Panama Canal	4
+Middle Creek	4
+Ohio River	4
+Honey Creek	4
+Nations Creek	4
+Devil's Swamp Lake	4
+Pee Dee River	4
+Vermillion River	4
+Snake River	4
+Holmes Creek	4
+Croix River	4
+Cypress River	4
+Walnut Creek	4
+Tallahatchie River	4
+Redwood Creek	4
+Harpeth River	4
+Elm Fork	4
+Tensas River	4
+Poteau River	4
+Little Buffalo Creek	4
+Hubbard Creek	4
+Williams Bayou	4
+Waccasassa River	4
+Clearwater Bay	4
+Town Creek	4
+Buffalo Creek	4
+Saline Lake	4
+Muddy Creek	4
+Little Beech Creek	4
+Denham Springs	4
+East Fork Amite River	4
+Scoobachitto Creek	4
+Old Fort Bayou	4
+Persimmon Creek	4
+Lewis Creek	4
+Horseshoe Lake	4
+Clear Fork	4
+Powell River	4
+Open Gulf	4
+Cayuga Inlet	4
+Laloki River	4
+Salt River	4
+Sulfur Creek	4
+Coldwater River	4
+FSC Lake	4
+Ards Creek	4
+Fall Creek	4
+Watauga River	4
+Bassett Creek	4
+East Pittman Creek	4
+Little Mulberry River	4
+Factory Creek	4
+Lees Creek	4
+South Fork Little Red River	4
+Little Cahaba River	4
+Forty-eight Creek	4
+Chestatee River	4
+Middle Fork Thompson Creek	4
+Upper Little Creek	4
+Butler Creek	4
+Pearl River Canal	4
+Murphy Creek	4
+Kepple Creek	4
+Broad Axe Bayou	4
+Green Creek	4
+McGehee Creek	4
+Ichetucknee Springs	4
+Hals Lake	4
+Mulberry Fork Black Warrior River	4
+Holly Springs	4
+Cowpen Creek	4
+Little Yellow Creek	4
+West Clear Creek	4
+Verde River	4
+James Creek	4
+Bright Angel Creek	4
+Kanab Creek	4
+Steinhagen Reservoir	4
+Little Biloxi River	4
+Bophumpa Creek	4
+Hemphill Creek	4
+Stokes Creek	4
+Hells Creek	4
+Ewaso Nyiro River	4
+Bent Creek	4
+Lightwood Knot Creek	4
+Woods Creek	3
+Big Black Creek	3
+Craig Creek	3
+North Fork Holston River	3
+Hot Springs	3
+Guantanamo River	3
+Bayou Segnette Water	3
+Lippard Creek	3
+Spring Lake	3
+Bosque River	3
+Abita River	3
+Escambia Bay	3
+Cache Creek	3
+North Fork Cache Creek	3
+Five Mile Creek	3
+Little Brushy Creek	3
+Roaring Springs	3
+Highland Bayou	3
+Pascagoula Bay	3
+Chowan River	3
+Orphan Creek	3
+Blue Spring	3
+Blue Dog Lake	3
+Orphan Bayou	3
+Southwest Canal	3
+Toro Creek	3
+Little Sandy Creek	3
+Anacoco Creek	3
+North Creek	3
+Mason Creek	3
+Irish Bayou	3
+Crane Creek	3
+Northern Gulf	3
+Pachitea River	3
+GSU River	3
+Bear River	3
+Tensaw River	3
+Superior Oil Canal	3
+Glover River	3
+Caddo Lake	3
+Salmon Creek	3
+Pond Fork Oconee River	3
+Sandies Creek	3
+Wingfield Creek	3
+Moro Creek	3
+Big Bayou	3
+Maries River	3
+Piasa Creek	3
+Little Barren River	3
+Dunbar Creek	3
+Chippewa River	3
+Mary's River	3
+Williams Lake	3
+Gales Creek	3
+Reed Creek	3
+Lobutcha Creek	3
+Laurel Creek	3
+Tallulah River	3
+Tuckasegee River	3
+Yacona River	3
+Simmons Bayou	3
+Big Tavern Creek	3
+Big Turkey Creek	3
+Oswego River	3
+Russian River	3
+Clear Lake	3
+Brown River	3
+Embarras River	3
+Rush Creek	3
+Chalon Bayou	3
+Washita River	3
+Root River	3
+Whitewater River	3
+Bowie Creek	3
+Moore Creek	3
+Graham Mill Creek	3
+Otoucalofa Creek	3
+Stave Creek	3
+Claybank Creek	3
+Bailey Creek	3
+Hillsborough River	3
+Adams Creek	3
+Wrights Creek	3
+Congaree River	3
+Tamiami Canal	3
+Alligator Creek	3
+Oscewichee Springs	3
+Crystal Springs	3
+Coldwater Springs	3
+Coles Creek	3
+Okatuppa Creek	3
+Puss Cuss Creek	3
+South Wichita River	3
+Yellowleaf Creek	3
+Sycamore Creek	3
+Terlingua Creek	3
+Stone Creek	3
+Mead Reservoir	3
+Aberdeen Creek	3
+San Juan River	3
+Tenmile Creek	3
+Zilpha Creek	3
+Middle Pease River	3
+Prairie Dog Town Fork Red River	3
+Tarrey Creek	3
+Shipp Creek	3
+North Fork Red River	3
+Little Hatchie River	3
+Tillatoba Creek	3
+Hunter Creek	3
+Lee Creek	3
+Oneida Lake	3
+South Fork Roanoke River	3
+Big Walker Creek	3
+Big South Fork	3
+Little Arkansas River	3
+Mill River	3
+Sophie Lott Lake	3
+Collins River	3
+Lake Creek	3
+Oklawaha River	3
+Obion River	3
+Bogue Phalia River	3
+West Fork Thompson Creek	3
+Chaney Creek	3
+First Creek	3
+Licking River	3
+Kiamichi River	3
+Corney Creek	3
+La Verkin Creek	3
+Trammel Creek	3
+Sparks Creek	3
+Millstone Creek	3
+Wabash River	3
+Claiborne Lake	3
+Blevens Creek	3
+McCoy Creek	3
+West Fork Stones River	3
+Cadron Creek	3
+Archey Creek	3
+Commissioner's Creek	3
+Toxaway Creek	3
+Cahaba Valley Creek	3
+Pond Fork	3
+Pond Fork River	3
+Sulphur Creek	3
+Big Cedar Creek	3
+Soapstone Creek	3
+McGee's Creek	3
+Little Pigeon River	3
+Topisaw Creek	3
+Tesnatee Creek	3
+Enitachope Creek	3
+Smith Fork	3
+American River	3
+Hard Labor Creek	3
+Baptizing Creek	3
+Pursley Creek	3
+Pine Flat Creek	3
+Schultz Creek	3
+Cooper's Creek	3
+Willseyville Creek	3
+McCall Creek	3
+Little Mulberry Creek	3
+Ogeechee River	3
+Coldwater Creek	3
+Rodes Creek	3
+Nolichucky River	3
+Cheoah River	3
+Neuse River	3
+Mimbres River	3
+Frisco Hot Springs	3
+East Nueces River	3
+D'Olive Creek	3
+East Walker River	3
+Fourteenmile Creek	3
+Tallahala Creek	3
+Souwilpa Creek	3
+Darlings Creek	3
+Rocky Springs	3
+Middle Cypress Creek	3
+Whitewater Creek	3
+Jordan Creek	3
+Seneasha Creek	3
+Little Zilpha Creek	3
+Tchoutacabouffa River	3
+Little Bogue Creek	3
+Poplar Springs	3
+Mitigation Canal	3
+Fork Mills River	3
+Athi River	3
+Sala River	3
+Burgess Creek	2
+Mineral Springs	2
+Gun Lake	2
+Roebuck Lake	2
+Little Walker Creek	2
+Big Moccasin Creek	2
+Bottomless Lakes	2
+San Solomon Springs	2
+Cottonwood Spring	2
+Big Spring	2
+Toyah Creek	2
+North Fork Illinois Bayou	2
+Paddy Creek	2
+South Llano River	2
+Millaudon Canal	2
+Briar Creek	2
+Bilboa Creek	2
+Ballard Creek	2
+Hickory Level Creek	2
+Jacks Creek	2
+Bouie Creek	2
+Lower Otokwa River	2
+Stevens Creek	2
+China Springs	2
+Ocoee River	2
+Petit Anse Bayou	2
+Catherine Creek	2
+House Creek	2
+McIlhenny Duck Pond	2
+Muddy River	2
+Lopez Sound	2
+Two Hearted River	2
+Flint River	2
+Galveston Ship Canal	2
+Pascagoula Rivers	2
+North Fork New River	2
+South Fork New River	2
+Little South Fork Cumberland River	2
+Matauzas Inlet	2
+Abrams Creek	2
+Horseshoe Lakes	2
+Jumping Creek	2
+Concho River	2
+Laborador Creek	2
+Biscayne Bay	2
+Rose Lake	2
+Merritts Mill Pond	2
+Dead Tiger Creek	2
+Mallini Bayou	2
+Massey Lake	2
+Kelly Bayou	2
+Cane River Lake	2
+Toro Bayou	2
+Ipswich Bay	2
+Gary Creek	2
+Willow Lake	2
+Big Juniper Creek	2
+Willow Island Pond	2
+Mosquito Creek	2
+Otter Creek	2
+Buzzards Bay	2
+Herrion Bay	2
+Phelps Creek	2
+Industrial Canal	2
+Redfish Bayou	2
+Nine Mile Bayou	2
+Kitaura Lake	2
+Coos Bay	2
+Sabine Lake	2
+East Bay	2
+Upper Red Lake	2
+White Lake	2
+Freeport Sulphur Company Canal	2
+Timablier Bay	2
+Bushley Creek	2
+Holston Creek	2
+Fork River	2
+Boggy Bayou	2
+Trout Creek	2
+Kisatchie Bayou	2
+Muskingum River	2
+Niger River	2
+Brownies Creek	2
+Mesquite Bay	2
+Saw Mill River	2
+Meadow Creek	2
+Tatum Creek	2
+Lower Bayou	2
+Jonathans Creek	2
+Lynches River	2
+Salty Creek	2
+Bird's Creek	2
+Embarrass River	2
+Boeuf River	2
+Bodcaw Creek	2
+Greasy Creek	2
+Rolling Fork	2
+Hars Creek	2
+South Fork Fourche La Fave River	2
+Hollywood Creek	2
+Horsehead Creek	2
+Beaver River	2
+Wedowee Creek	2
+Warrior River	2
+Angelina River	2
+Falling Timber Creek	2
+Shark River	2
+North Fork Turkey Creek	2
+Fox River	2
+Departee Creek	2
+Silver Springs	2
+Wetapa Creek	2
+Blue Springs Creek	2
+San Marcos Springs	2
+San Marcos River	2
+Chilhowee Lake	2
+Yockanookany River	2
+Twelvemile Creek	2
+Scott Creek	2
+Shooting Creek	2
+Caloosahatchee River	2
+Chauga River	2
+West Fork French Broad River	2
+Goodenough Spring	2
+Pennington Creek	2
+Fish Creek	2
+South Alligator River	2
+Pearl Creek	2
+Titi Creek	2
+West Creek	2
+Brooks Lake	2
+Headwater Creek	2
+Wetapo Creek	2
+Terrys Creek	2
+Toms River	2
+Delaware River	2
+Dean Creek	2
+Vermilion River	2
+Brooks River	2
+Fork Red River	2
+Sarasota Bay	2
+Steinhatchee River	2
+Jolly Bay	2
+Buckatunna Creek	2
+Travertine Creek	2
+Moapa River	2
+Telogia Creek	2
+Warm Springs	2
+Bryans Creek	2
+Saranac Lake	2
+Curlew Creek	2
+Pine Creek	2
+Seven Runs Creek	2
+Pigeon Creek	2
+Morris Creek	2
+Jordan River	2
+Alexander Creek	2
+Aucilla River	2
+Fenholloway River	2
+Myakka River	2
+Cape Fear River	2
+Upatoi Creek	2
+Pine Island Sound	2
+Alafia River	2
+South Deer River	2
+Maletts Spring	2
+Cross Bayou Canal	2
+Boca Ciega Bay	2
+Iron Creek	2
+Clarks Creek	2
+Empire Canal	2
+Tenaha Bayou	2
+Tidal Creek	2
+Satilla River	2
+Glen Springs	2
+Hondo Creek	2
+Frio River	2
+Bakers Creek	2
+Porter Creek	2
+Line Creek	2
+Little Spring Creek	2
+Amargosa River	2
+Boucher Creek	2
+Diamond Creek	2
+Bluewater Lake	2
+Spencer Creek	2
+Falling Creek	2
+Hamilton Creek	2
+Planters Canal	2
+Long Tom River	2
+Willard Lake	2
+Beaumont Creek	2
+Bear Mans Lake	2
+Skinner Lake	2
+Bogue Chitto Creek	2
+Hobuck Creek	2
+Hamer Bayou	2
+Gin Lake	2
+Big Cypress Creek	2
+Howard Creek	2
+Hays Creek	2
+Calabrella Creek	2
+Hester Creek	2
+Davidson Creek	2
+Potacocowa Creek	2
+West Fork Lewis Creek	2
+Harland Creek	2
+Rock Lake	2
+Grand Gulf	2
+Tongue River	2
+Dutchman Creek	2
+North Wichita River	2
+Smith Creek	2
+Flowers Creek	2
+Mouse Creek	2
+Shutispear Creek	2
+Brown Creek	2
+Owl Creek	2
+Sykes Creek	2
+Dog Creek	2
+North Fork Tillatoba Creek	2
+Lovetts Creek	2
+McClellan Creek	2
+Leesville Reservoir	2
+Bottom Creek	2
+Calcasieu Ship Channel	2
+Black Lake	2
+Waxahatchee Creek	2
+SSE Empire Canal	2
+Stoney Creek	2
+Connecticut River	2
+Grant's Brook	2
+Hildebrant Bayou	2
+Station Camp Creek	2
+Four Mile Creek	2
+Bruce Creek	2
+Twin Lakes	2
+Acadian Bayou	2
+Encore Fabre Bayou	2
+Mountain Fork River	2
+North Fork Ouachita River	2
+Seven Creeks	2
+Little Poplar Creek	2
+Canoe Creek	2
+Fourmile Creek	2
+Pigeonroost Creek	2
+Salt Lick Creek	2
+Smiths Fork River	2
+Enid Reservoir	2
+Old River Lake	2
+Sardis Reservoir	2
+Tchula Lake	2
+Steele Bayou	2
+Little Cypress Bayou	2
+FSC Garden Island Bay	2
+Black Rivers	2
+Tosa Bay	2
+Double Creek	2
+Great Miami River	2
+West Frio River	2
+Kent Creek	2
+Fourteen Mile Creek	2
+Josephs Bay	2
+Bay Springs	2
+Greathouse Spring	2
+Little Sugar Creek	2
+Little Washburn Creek	2
+Ventris Creek	2
+Henderson Creek	2
+Kaskaskia River	2
+South Indian Creek	2
+Puget Sound	2
+Bear Lake	2
+Deer Lake	2
+Willamette River	2
+Pecan Creek	2
+Drakes Creek	2
+Sprout Creek	2
+Fishkill Creek	2
+Wappingers Creek	2
+Little Tallahatchie River	2
+Big Wilson Creek	2
+Little Piney Creek	2
+Palmetto Creek	2
+Little Ellejoy Creek	2
+Roaring Creek	2
+Pittman Creek	2
+Stony Creek	2
+Little Kiokee Creek	2
+Raes Creek	2
+Hog Creek	2
+Log Creek	2
+North Fork Oconee River	2
+Bogue Homo Creek	2
+Owens Creek	2
+Big Swan Creek	2
+Benson Creek	2
+Kenta Canal	2
+Coffee Creek	2
+Oconaluftee River	2
+Washburn Creek	2
+Lick Creek	2
+Pea River	2
+Bahala Creek	2
+Big Flat Creek	2
+Mayo River	2
+Cosby Creek	2
+Talley's Creek	2
+Cartoogechaye Creek	2
+Savannah Creek	2
+Johnathans Creek	2
+Nantahala River	2
+Timpson Creek	2
+Elk Creek	2
+West Fork Chattooga River	2
+Tippecanoe River	2
+Little Duck River	2
+Rio Grande River	2
+Willow Creek	2
+Little Brazos River	2
+Mill Spring	2
+Norris Creek	2
+Caney Fork	2
+Buttahatchie River	2
+McGee Creek	2
+Umpqua River	2
+Austin Creek	2
+Wall Creek	2
+Battle Creek	2
+Little Tallapoosa River	2
+Hillabee Creek	2
+Danube River	2
+Pit River	2
+Crowley Lake	2
+Teoc Creek	2
+Dixon Creek	2
+Mush Creek	2
+Lower Broad Axe Bayou	2
+Rabbit Creek	2
+Upper Little River	2
+Tom's Creek	2
+Blackwood Creek	2
+Priests Creek	2
+Mayfield Creek	2
+Walled Lake	2
+Chikaska River	2
+Big Escambia Creek	2
+NE Gulf	2
+Tails Creek	2
+West Hobolochitto Creek	2
+Sellers Creek	2
+Wills Creek	2
+Trahon Creek	2
+Wilson Lake	2
+Carroll Creek	2
+Sipsey River	2
+Simmons Creek	2
+East Fork Lookout Creek	2
+Jemez River	2
+Sapillo Creek	2
+Talking Rock Creek	2
+Yahoola Creek	2
+Choctaw Lake	2
+Terrapin Creek	2
+Mountain Fork	2
+Bladen Springs	2
+Pace Creek	2
+Chestnut Creek	2
+Hickahala Creek	2
+Lafayette Springs	2
+Middle River	2
+Carter Creek	2
+Nichols Creek	2
+Davis Creek	2
+Acker Creek	2
+Deep River	2
+Gunns Bayou	2
+Kennison Creek	2
+Thatcher Creek	2
+Mulberry Fork	2
+Elves Chasm Creek	2
+Whisky Chitto Creek	2
+Carrizo Creek	2
+Moss Springs	2
+Sabinal River	2
+East Clear Creek	2
+Cardenas Creek	2
+Sevier River	2
+Ashley Creek	2
+Piscataquis River	2
+Moosup River	2
+Muddy Springs	2
+Malheur River	2
+Whiskey Chitto Creek	2
+Allbriton Creek	2
+Little Wabash River	2
+Hatchett Creek	2
+Elkins Creek	2
+Coila Creek	2
+Illinois Central Gulf	2
+Fannegusha Creek	2
+Moccasin Creek	2
+Dry Elm Creek	2
+Bayou Marcus Creek	2
+Oak Chewalla Creek	2
+Little Topashaw Creek	2
+Sabougla Creek	2
+Purie Creek	2
+Twin Springs Creek	2
+Turkey Hen Creek	2
+Miller Creek	2
+Reynolds Creek	2
+Speegleville Creek	2
+Hirose-gawa River	2
+Crains Creek	2
+Chatahoochee River	2
+Graves Creek	2
+Big Swamp Creek	2
+Hatchet Creek	2
+Ragati River	2
+South Caddo River	2
+Black Cypress Bayou	2
+Nottley River	2
+South Fork Caddo River	2
+Timbergut Creek	2
+South Sylamore Creek	2
+West Turkey Creek	2
+Loffa River	2
+Griffin Springs	2
+Sagana River	2
+Ewaso Narok River	2
+Murera River	2
+Little Warrior River	2
+Rufiji River	2
+Tyro Creek	2
+Caty Creek	2
+Fatala River	2
+Koumbouya River	2
+South Mills River	2
+Bafing River	2
+Bull Creek	2
+Lockhelooge Creek	2
+Little Stony Creek	2
+Verdin Creek	2
+South Yadkin River	2
+West Prong Roaring River	2
+Sucarnoochee River	2
+Upper Bogueloosa Creek	2
+Willow Island Canal	2
+Lumi River	2
+Kokoulo River	2

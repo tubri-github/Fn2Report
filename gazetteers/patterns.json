@@ -1,0 +1,31 @@
+{
+  "water_body_patterns": [
+    "([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)* (?:River|Lake|Bayou|Creek))",
+    "([A-Z][a-zA-Z\\'\\-]+ (?:River|Lake|Bayou|Creek)) at",
+    "([A-Z][a-zA-Z\\'\\-]+ (?:River|Lake|Bayou|Creek)) near"
+  ],
+  "location_patterns": [
+    "at ([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)*)",
+    "near ([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)*)",
+    "((?:\\d+\\.?\\d*)\\s*(?:mi(?:le)?|km)s?) (?:[NSEW]\\.?|[NS][EW]\\.?) of ([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)*)",
+    "mouth of ([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)*)"
+  ],
+  "direction_distance_patterns": [
+    "((?:\\d+\\.?\\d*)\\s*(?:mi(?:le)?|km)s?) ([NSEW]\\.?|[NS][EW]\\.?)",
+    "([NSEW]\\.?|[NS][EW]\\.?) of",
+    "([NSEW]\\.?|[NS][EW]\\.?) side",
+    "([NSEW]\\.?|[NS][EW]\\.?) (?:from|to)"
+  ],
+  "coordinate_patterns": [
+    "([TRS]\\d+[NSEW]|Sec\\.\\s*\\d+)",
+    "(\\d{1,2}[\u00b0\\-]\\d{1,2}[\\'\u2032\\-](?:\\d{1,2})?[\\\"\u2033]?\\s*[NSEW])",
+    "Lat\\.?\\s*(\\d{1,2}[\u00b0\\-]\\d{1,2}[\\'\u2032\\-](?:\\d{1,2})?[\\\"\u2033]?)",
+    "Long\\.?\\s*(\\d{1,2}[\u00b0\\-]\\d{1,2}[\\'\u2032\\-](?:\\d{1,2})?[\\\"\u2033]?)"
+  ],
+  "complex_geo_patterns": [
+    "([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)* (?:River|Lake|Bayou|Creek)) (?:at|near) ([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)*)",
+    "([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)*) (?:County|Parish) (?:line|border)",
+    "bridge (?:on|at|over) ([A-Z][a-zA-Z\\'\\-]+(?: [A-Z][a-zA-Z\\'\\-]+)*)",
+    "((?:Hwy|Highway|Rt|Route|US|CR|FM|Interstate|I-|St|Street|Rd|Road|Ave|Avenue|Blvd|Boulevard)\\s*\\d+[A-Za-z]?) (?:crossing|bridge)"
+  ]
+}

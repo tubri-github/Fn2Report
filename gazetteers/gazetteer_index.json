@@ -1,0 +1,61 @@
+{
+  "primary_categories": [
+    "water_bodies",
+    "directions",
+    "distances",
+    "relative_positions",
+    "admin_areas",
+    "roads",
+    "coordinates",
+    "geographical_features"
+  ],
+  "statistics": {
+    "water_bodies": 1200,
+    "directions": 17,
+    "distances": 190,
+    "relative_positions": 19,
+    "admin_areas": 96,
+    "roads": 102,
+    "coordinates": 134,
+    "geographical_features": 19
+  },
+  "secondary_categories": {
+    "water_bodies": [
+      "river",
+      "lake",
+      "bayou",
+      "creek",
+      "pond",
+      "reservoir",
+      "gulf",
+      "bay",
+      "stream",
+      "brook"
+    ],
+    "directions": [
+      "cardinal",
+      "composite",
+      "relative"
+    ],
+    "relative_positions": [
+      "proximity",
+      "relation",
+      "boundary"
+    ]
+  },
+  "synonym_categories": [
+    "directions",
+    "distances",
+    "relative_positions",
+    "roads",
+    "water_bodies",
+    "admin_areas"
+  ],
+  "pattern_categories": [
+    "water_body_patterns",
+    "location_patterns",
+    "direction_distance_patterns",
+    "coordinate_patterns",
+    "complex_geo_patterns"
+  ]
+}

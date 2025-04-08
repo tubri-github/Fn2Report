@@ -1,0 +1,19 @@
+at	5356
+along	1626
+below	791
+mouth of	598
+above	535
+near	451
+upstream	159
+between	152
+opposite	116
+downstream	99
+across	64
+junction	49
+behind	38
+adjacent	25
+entrance	21
+front	13
+inside	9
+center	7
+outside	7
