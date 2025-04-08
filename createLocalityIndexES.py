@@ -1,5 +1,7 @@
 import os
 import json
+import ssl
+
 import elasticsearch
 from elasticsearch import Elasticsearch, helpers
 import pandas as pd
@@ -27,15 +29,23 @@ class GeoElasticSearchIndexer:
         """连接到Elasticsearch"""
         try:
             # 包含scheme参数的连接方法
+            # 创建 SSL 上下文（不验证证书）
+            context = ssl.create_default_context()
+            context.check_hostname = False
+            context.verify_mode = ssl.CERT_NONE
+
             self.es = Elasticsearch(
                 hosts=[{
                     'host': self.es_host,
                     'port': self.es_port,
-                    'scheme': 'http'
+                    'scheme': 'https'  # 使用 https
                 }],
-                http_auth=('user', 'password'),
-                verify_certs=False  # 如果你使用 HTTPS 并且没有配置 CA 证书，设为 False；否则建议设为 True
+                basic_auth=(self.es_user, self.es_password),
+                ssl_context=context,
+                verify_certs=False,
+                ssl_show_warn=False
             )
+
             if self.es.ping():
                 print("成功连接到Elasticsearch")
                 return True
